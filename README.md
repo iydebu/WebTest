@@ -1,17 +1,21 @@
-# [Templatecookie](https://templatecookie.com)
-Templatecookie.com creates quality templates and php scripts. Templatecookie has many free HTML & Figma templates available for professional use. Templatecookie is famous for its premium PHP Scripts available on [Codeanyon Marketplace](https://codecanyon.net/user/templatecookie). Browse [Templatecookie](https://templatecookie.com) today and discover awesome digital products.
+# 🕸 Web Test Repo
 
-# [Poco HTML Agency Landing Page Template](https://www.templatecookie.com/templates/varin-html-template)
+Welcome to the **Web Test Repo**! Your starting point for web testing.
 
-> Poco is a beautiful landing page template for agencies, It has many pages including, services, about, contact, portfolio, portfolio details, blog, blog details, and more.
+## 📌 Table of Contents
 
-Check the [Live Demo here](https://bdweather-coming-soon.netlify.app/).
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-![](screenshot.png)
+## Introduction
 
-## Credits
-- Design & Developed by [Templatecookie](https://templatecookie.com)
+This repository houses basic web test samples. Ideal for quick reference or kickstarting your testing journey.
 
-## License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+## Getting Started
 
+1. **Clone this repo**
+```bash
+git clone https://github.com/YourUsername/WebTestRepo.git
